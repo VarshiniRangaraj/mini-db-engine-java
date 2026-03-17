@@ -1,6 +1,7 @@
 Mini Database Engine (Java)
 
 Overview
+
 This project is a simple database system built using Java that stores data in files. It allows you to add, view, change, and remove records, and it uses a custom query language similar to SQL for searching 
 ---
 
