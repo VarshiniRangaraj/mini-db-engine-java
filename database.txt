@@ -1,0 +1,4 @@
+name=Alice,age=22
+name=Amirtha,age=19
+name=Banu,age=23
+name=Zapp,age=19
